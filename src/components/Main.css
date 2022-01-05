@@ -51,6 +51,11 @@
   height: 50px;
 }
 
+.ownerDetails {
+  display: flex;
+  justify-content: space-between;
+}
+
 .owner > div {
   margin: 0 5px;
 }
